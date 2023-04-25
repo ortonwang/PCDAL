@@ -1,2 +1,2 @@
 # PCDAL
-The code will be open when the paper is accepted.
+ The code will be made public after the paper is accepted.
